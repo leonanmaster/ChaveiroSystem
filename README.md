@@ -52,7 +52,7 @@ Certifique-se de ter o **Python 3.10+** e o **Git** instalados.
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/SEU_USUARIO/GestaoChaveiro.git](https://github.com/SEU_USUARIO/GestaoChaveiro.git)
+git clone [https://github.com/leonanmaster/ChaveiroSystem.git]
 
 # 2. Entre na pasta do projeto
 cd GestaoChaveiro
@@ -107,4 +107,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 Este projeto está sob a licença MIT.
 
 ---
-Desenvolvido por **[Seu Nome]** - Estudante de Ciência da Computação (UFRRJ)
+Desenvolvido por Leonan Levy Nascimento Louvem - Estudante de Ciência da Computação (UFRRJ)
