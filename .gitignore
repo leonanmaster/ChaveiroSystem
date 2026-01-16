@@ -1,0 +1,19 @@
+# Ambientes Virtuais (Nunca suba isso!)
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Arquivos de Banco de Dados (Para não vazar dados reais do cliente)
+*.db
+*.sqlite3
+data/*.db
+
+# Arquivos de Build e Executáveis (O GitHub é para código, não binários)
+build/
+dist/
+*.spec
+*.exe
+
+# Arquivos de Sistema
+.DS_Store
